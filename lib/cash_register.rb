@@ -23,6 +23,10 @@ class CashRegister
     end   
   end 
   
+  def items
+    returnm @item
+  end 
+  
   def void_last_transaction
     self.total -= transactions.last
     transactions.pop
