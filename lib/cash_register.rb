@@ -10,4 +10,6 @@ class CashRegister
     @transactions = []
   end 
   
+  def 
+  
 end 
