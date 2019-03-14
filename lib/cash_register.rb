@@ -14,4 +14,6 @@ class CashRegister
     self.transactions << price
   end 
   
+  def apply_discount
+  
 end 
