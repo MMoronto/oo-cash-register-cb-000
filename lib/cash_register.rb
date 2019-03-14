@@ -8,6 +8,6 @@ class CashRegister
     @transactions = []
   end 
   
-  def 
+  #def 
   
 end 
