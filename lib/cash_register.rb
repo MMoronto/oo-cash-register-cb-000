@@ -23,9 +23,9 @@ class CashRegister
     end   
   end 
   
-  def items
-    returnm @items
-  end 
+  #def items
+    #returnm @items
+  #end 
   
   def void_last_transaction
     self.total -= transactions.last
